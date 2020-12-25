@@ -1,6 +1,8 @@
 # VideoCompress
 A Telegram Video Compressor Bot By **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
+[![Demo](https://img.shields.io/badge/Telegram-Demo%20Bot-blue?logo=telegram)](http://t.me/ABVidCompressBot)
+
 ## Easy Deploy:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
